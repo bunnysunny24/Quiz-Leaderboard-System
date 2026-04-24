@@ -311,15 +311,3 @@ The logic uses a set of unique keys:
 
 This ensures duplicate events across different polls are processed only once.
 
-## Submission Checklist
-
-- [x] Polls executed for 0..9
-- [x] Duplicate handling implemented
-- [x] Leaderboard aggregation and sorting done
-- [x] Total score computed
-- [x] Final submit endpoint integrated
-- [x] Postman screenshots attached
-
-## Author
-
-Bhavashesh
